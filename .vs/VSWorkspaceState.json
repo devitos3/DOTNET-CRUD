@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Controllers",
+    "\\Models",
+    "\\Repository",
+    "\\Repository\\interfaces",
+    "\\Services",
+    "\\Services\\Interfaces"
+  ],
+  "SelectedNode": "\\api2.sln",
+  "PreviewInSolutionExplorer": false
+}
